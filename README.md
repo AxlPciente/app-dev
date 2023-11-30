@@ -1,4 +1,4 @@
 # app-dev
 My First Repository
-*Favorite Series*
+# Favorite Series
 **Angel Beats**
